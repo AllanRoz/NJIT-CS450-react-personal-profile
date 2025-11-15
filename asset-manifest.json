@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-personal-profile/static/css/main.510d37d1.css",
-    "main.js": "/react-personal-profile/static/js/main.3493c3dc.js",
-    "index.html": "/react-personal-profile/index.html",
-    "main.510d37d1.css.map": "/react-personal-profile/static/css/main.510d37d1.css.map",
-    "main.3493c3dc.js.map": "/react-personal-profile/static/js/main.3493c3dc.js.map"
+    "main.css": "/NJIT-CS450-react-personal-profile/static/css/main.510d37d1.css",
+    "main.js": "/NJIT-CS450-react-personal-profile/static/js/main.3493c3dc.js",
+    "index.html": "/NJIT-CS450-react-personal-profile/index.html",
+    "main.510d37d1.css.map": "/NJIT-CS450-react-personal-profile/static/css/main.510d37d1.css.map",
+    "main.3493c3dc.js.map": "/NJIT-CS450-react-personal-profile/static/js/main.3493c3dc.js.map"
   },
   "entrypoints": [
     "static/css/main.510d37d1.css",
