@@ -7,15 +7,44 @@ class Portfolio extends Component {
     this.state = {
       projects: [
         {
+          project_image: "assets/heartful.png",
+          title: "Heartful: Medical Management",
+          description:
+            "A full-stack medical management platform built with React and ColdFusion",
+          technologies: ["React", "ColdFusion", "MySQL", "MaterialUI"],
+          project_live_demo:
+            "http://ec2-98-92-133-251.compute-1.amazonaws.com/",
+          project_view_code:
+            "https://github.com/DummyClock/medical-management-web-app",
+        },
+        {
           project_image: "assets/primewell_clinic.png",
           title: "Primewell Clinic",
           description:
             "A full-stack medical platform built with React and Node.js",
-          technologies: ["React", "Node.js", "MySQL", "AntD"],
+          technologies: ["React", "Node.js", "MySQL", "AntDesign"],
           project_live_demo:
             "https://cs490-gp-frontend-production.up.railway.app/",
           project_view_code:
             "https://github.com/Aiden-Barrera/CS490-GP-Frontend",
+        },
+        {
+          project_image: "assets/chilli.png",
+          title: "The Global Chili Pepper Trail",
+          description:
+            "A React app about chili peppers and iconic dishes around the world.",
+          technologies: ["React", "Material-UI"],
+          project_live_demo: "https://project.allanrozario.com/NJIT-HSS404-Global-Chili-Pepper-Trail/",
+          project_view_code: "https://github.com/AllanRoz/NJIT-HSS404-Global-Chili-Pepper-Trail",
+        },
+        {
+          project_image: "assets/rsa.png",
+          title: "RSA Algorithm",
+          description:
+            "A React app about the RSA Algorithm with an RSA calculator.",
+          technologies: ["React", "Material-UI"],
+          project_live_demo: "https://github.com/AllanRoz/NJIT-CS351-RSA-Algorithm",
+          project_view_code: "https://project.allanrozario.com/NJIT-CS351-RSA-Algorithm/",
         },
         {
           project_image: "assets/digital-car-show.png",

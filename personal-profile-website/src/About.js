@@ -3,21 +3,8 @@ import "./About.css";
 
 class About extends Component {
   skills = [
-    "React",
-    "JavaScript",
-    "CSS3",
-    "HTML5",
-    "PHP",
-    "MySQL",
-    "Node.js",
-    "Git",
-    "Java",
-    "Python",
-    "C",
-    "C++",
-    "Assembly",
-    "Linux",
-    "AWS",
+    "Java", "Python", "C", "C++", "SQL (MySQL)", "JavaScript", "TypeScript", "HTML", "CSS", "PHP", "Bash", "Assembly", "React", "Node.js", "Express.js", "Material-UI", "AntDesign", "Bootstrap",
+    "Git", "Docker", "AWS", "GCP", "Linux", "Figma", "CI/CD", "Jira", "Agile", "Selenium", "jQuery", "pandas", "NumPy", "Matplotlib", "Chart.js", "Frontend", "Backend", "Full-Stack", "OOP"
   ];
 
   render() {

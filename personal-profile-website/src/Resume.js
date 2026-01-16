@@ -19,8 +19,8 @@ function Resume() {
 
   const experience = [
     {
-      title: "Junior Web Developer",
-      company: "NJIT Van Houten Library",
+      title: "Software Engineer",
+      company: "New Jersey Institute of Technology",
       period: "Sep 2023 - May 2024",
       responsibilities: [
         "Develop and maintain web applications to enhance the library’s digital presence",
@@ -35,33 +35,13 @@ function Resume() {
 
   const skills = {
     "Programming Languages": [
-      "JavaScript",
-      "Python",
-      "Java",
-      "C",
-      "C++",
-      "Assembly",
-      "HTML5",
-      "CSS3",
-      "PHP",
+      "Java", "Python", "C", "C++", "SQL (MySQL)", "JavaScript", "TypeScript", "HTML", "CSS", "PHP", "Bash", "Assembly"
     ],
     "Frameworks & Libraries": [
-      "React",
-      "Node.js",
-      "Express.js",
-      "Bootstrap",
-      "jQuery",
+      "React", "Node.js", "Express.js", "Material-UI", "AntDesign", "Bootstrap",
     ],
     "Tools & Technologies": [
-      "Git",
-      "VS Code",
-      "MySQL",
-      "Figma",
-      "Jira",
-      "Linux",
-      "Selenium",
-      "Postman",
-      "Wireshark",
+      "Git", "Docker", "AWS", "GCP", "Linux", "Figma", "CI/CD", "Jira", "Agile", "Selenium", "Postman", "WireShark"
     ],
   };
 
@@ -71,7 +51,7 @@ function Resume() {
         <h2 className="resume-title">Resume</h2>
         <div className="social-links">
           <a
-            href="https://web.njit.edu/~ar358/pages/resume/index.html"
+            href="https://resume.allanrozario.com/"
             className="social-link instagram"
             target="_blank"
             rel="noopener noreferrer"
