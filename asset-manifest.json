@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/NJIT-CS450-react-personal-profile/static/css/main.510d37d1.css",
-    "main.js": "/NJIT-CS450-react-personal-profile/static/js/main.43d9d761.js",
+    "main.js": "/NJIT-CS450-react-personal-profile/static/js/main.d393893a.js",
     "index.html": "/NJIT-CS450-react-personal-profile/index.html",
     "main.510d37d1.css.map": "/NJIT-CS450-react-personal-profile/static/css/main.510d37d1.css.map",
-    "main.43d9d761.js.map": "/NJIT-CS450-react-personal-profile/static/js/main.43d9d761.js.map"
+    "main.d393893a.js.map": "/NJIT-CS450-react-personal-profile/static/js/main.d393893a.js.map"
   },
   "entrypoints": [
     "static/css/main.510d37d1.css",
-    "static/js/main.43d9d761.js"
+    "static/js/main.d393893a.js"
   ]
 }
