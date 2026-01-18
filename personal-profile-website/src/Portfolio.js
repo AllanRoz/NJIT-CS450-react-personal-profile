@@ -11,7 +11,7 @@ class Portfolio extends Component {
           title: "Heartful: Medical Management",
           description:
             "A full-stack medical management platform built with React and ColdFusion",
-          technologies: ["React", "ColdFusion", "MySQL", "MaterialUI"],
+          technologies: ["React", "ColdFusion", "MySQL", "MUI"],
           project_live_demo:
             "http://ec2-98-92-133-251.compute-1.amazonaws.com/",
           project_view_code:
