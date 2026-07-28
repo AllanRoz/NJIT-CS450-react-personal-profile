@@ -51,7 +51,7 @@ function Resume() {
         <h2 className="resume-title">Resume</h2>
         <div className="social-links">
           <a
-            href="https://resume.allanrozario.com/"
+            href="https://allanrozario.com/RozarioAllanResume.pdf"
             className="social-link instagram"
             target="_blank"
             rel="noopener noreferrer"
