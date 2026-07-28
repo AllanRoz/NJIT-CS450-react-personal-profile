@@ -34,7 +34,7 @@ class Portfolio extends Component {
           description:
             "A React app about chili peppers and iconic dishes around the world.",
           technologies: ["React", "Material-UI"],
-          project_live_demo: "https://project.allanrozario.com/NJIT-HSS404-Global-Chili-Pepper-Trail/",
+          project_live_demo: "https://github.allanrozario.com/NJIT-HSS404-Global-Chili-Pepper-Trail/",
           project_view_code: "https://github.com/AllanRoz/NJIT-HSS404-Global-Chili-Pepper-Trail",
         },
         {
@@ -43,8 +43,8 @@ class Portfolio extends Component {
           description:
             "A React app about the RSA Algorithm with an RSA calculator.",
           technologies: ["React", "Material-UI"],
-          project_live_demo: "https://github.com/AllanRoz/NJIT-CS351-RSA-Algorithm",
-          project_view_code: "https://project.allanrozario.com/NJIT-CS351-RSA-Algorithm/",
+          project_live_demo: "https://github.allanrozario.com/NJIT-CS351-RSA-Algorithm/",
+          project_view_code: "https://github.com/AllanRoz/NJIT-CS351-RSA-Algorithm",
         },
         {
           project_image: "assets/digital-car-show.png",
